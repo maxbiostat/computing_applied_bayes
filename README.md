@@ -33,6 +33,8 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 - [A General Framework for the Parametrization of Hierarchical Models](https://projecteuclid.org/journals/statistical-science/volume-22/issue-1/A-General-Framework-for-the-Parametrization-of-Hierarchical-Models/10.1214/088342307000000014.full)  By Papaspiliopoulos et al.
 - [Efficient parametrisations for normal linear mixed models](https://www.jstor.org/stable/2337527?seq=1#metadata_info_tab_contents) from Alan E. Gelfand, Sujit K. Sahu and Bradley P. Carlin. 
 
+Some of this stuff was suggested by [Lucas Moschen](https://lucasmoschen.github.io/) [here](https://github.com/maxbiostat/Computational_Statistics/issues/4#issuecomment-946332805). 
+
 
 ## Resources
 
