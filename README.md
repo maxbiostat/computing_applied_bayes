@@ -15,5 +15,7 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 ### Reparametrisation
 
 ## Resources
+
 - If you know what's good for you, you will check out [Mike Betancourt's writtings](https://betanalpha.github.io/writing/). 
 - A good resource in Portuguese is [Marco Inácio's](https://github.com/randommm) [Apostila de Stan](https://marcoinacio.com/stan/). But beware it was written some time ago and the language has move forward quite a bit.  
+- Stan's [documentation page](https://mc-stan.org/users/documentation/) is also a great place to find tips and tricks.
