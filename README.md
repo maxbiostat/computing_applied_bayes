@@ -8,11 +8,26 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 
 ### General tricks
 
-- Generating truncated random variables
+**Modelling**
+
+- Prior and posterior pushforward checking. See [Bayesian Workflow](https://arxiv.org/abs/2011.01808) and [Gabry et al. (2019)](https://arxiv.org/pdf/1709.01449.pdf). See also the [Stan guide](https://mc-stan.org/docs/2_27/stan-users-guide/prior-predictive-checks.html#coding-prior-predictive-checks-in-stan).
+
+**Computational**
+
+- Generating truncated random variables [Stan manual](https://mc-stan.org/docs/stan-users-guide/truncated-random-number-generation.html);
+
 
 ### Numerical robustness
 
+- Goldberg's 1991 gem ["What every computer scientist should know about ?oating-point arith- metic."](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) is great;
+- The relevant [section](https://mc-stan.org/docs/stan-users-guide/floating-point-arithmetic.html) of the Stan guide is also of great value.
+
+
 ### Reparametrisation
+
+- [Gelman (2004)https://www.tandfonline.com/doi/pdf/10.1198/016214504000000458) is a good source for a discussion on parametrisations.
+- [This](https://twiecki.io/blog/2017/02/08/bayesian-hierchical-non-centered/) blog post by Thomas Twiecki explains nicely how parametrisation matters, especially for hierarchical models, as does this excellent [video](https://www.youtube.com/watch?v=gSd1msFFZTw) by Ben Lambert. 
+
 
 ## Resources
 
