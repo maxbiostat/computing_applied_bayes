@@ -11,7 +11,6 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 **Modelling**
 
 - Prior and posterior pushforward checking. See [Bayesian Workflow](https://arxiv.org/abs/2011.01808) and [Gabry et al. (2019)](https://arxiv.org/pdf/1709.01449.pdf). See also the [Stan guide](https://mc-stan.org/docs/2_27/stan-users-guide/prior-predictive-checks.html#coding-prior-predictive-checks-in-stan).
-- 
 
 **Computational**
 
