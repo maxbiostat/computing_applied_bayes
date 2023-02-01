@@ -11,6 +11,7 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 **Modelling**
 
 - Prior and posterior pushforward checking. See [Bayesian Workflow](https://arxiv.org/abs/2011.01808) and [Gabry et al. (2019)](https://arxiv.org/pdf/1709.01449.pdf). See also the [Stan guide](https://mc-stan.org/docs/2_27/stan-users-guide/prior-predictive-checks.html#coding-prior-predictive-checks-in-stan).
+- 
 
 **Computational**
 
@@ -27,6 +28,7 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 
 - [Gelman (2004)https://www.tandfonline.com/doi/pdf/10.1198/016214504000000458) is a good source for a discussion on parametrisations.
 - [This](https://twiecki.io/blog/2017/02/08/bayesian-hierchical-non-centered/) blog post by Thomas Twiecki explains nicely how parametrisation matters, especially for hierarchical models, as does this excellent [video](https://www.youtube.com/watch?v=gSd1msFFZTw) by Ben Lambert. 
+- The [QR](https://betanalpha.github.io/assets/case_studies/qr_regression.html) is a great tool to alleviate computational problems with regression models.
 
 
 ## Resources
