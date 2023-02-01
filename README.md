@@ -26,7 +26,7 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 
 ### Reparametrisation
 
-- [Gelman (2004)https://www.tandfonline.com/doi/pdf/10.1198/016214504000000458) is a good source for a discussion on parametrisations.
+- [Gelman (2004)](https://www.tandfonline.com/doi/pdf/10.1198/016214504000000458) is a good source for a discussion on parametrisations.
 - [This](https://twiecki.io/blog/2017/02/08/bayesian-hierchical-non-centered/) blog post by Thomas Twiecki explains nicely how parametrisation matters, especially for hierarchical models, as does this excellent [video](https://www.youtube.com/watch?v=gSd1msFFZTw) by Ben Lambert. 
 - The [QR](https://betanalpha.github.io/assets/case_studies/qr_regression.html) is a great tool to alleviate computational problems with regression models.
 - [Hamiltonian Monte Carlo for Hierarchical Models](https://arxiv.org/abs/1312.0906) by M ike Betancourt and Mark Girolami is a great technical resource. 
