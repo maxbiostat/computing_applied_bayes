@@ -29,6 +29,9 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 - [Gelman (2004)https://www.tandfonline.com/doi/pdf/10.1198/016214504000000458) is a good source for a discussion on parametrisations.
 - [This](https://twiecki.io/blog/2017/02/08/bayesian-hierchical-non-centered/) blog post by Thomas Twiecki explains nicely how parametrisation matters, especially for hierarchical models, as does this excellent [video](https://www.youtube.com/watch?v=gSd1msFFZTw) by Ben Lambert. 
 - The [QR](https://betanalpha.github.io/assets/case_studies/qr_regression.html) is a great tool to alleviate computational problems with regression models.
+- [Hamiltonian Monte Carlo for Hierarchical Models](https://arxiv.org/abs/1312.0906) by M ike Betancourt and Mark Girolami is a great technical resource. 
+- [A General Framework for the Parametrization of Hierarchical Models](https://projecteuclid.org/journals/statistical-science/volume-22/issue-1/A-General-Framework-for-the-Parametrization-of-Hierarchical-Models/10.1214/088342307000000014.full)  By Papaspiliopoulos et al.
+- [Efficient parametrisations for normal linear mixed models](https://www.jstor.org/stable/2337527?seq=1#metadata_info_tab_contents) from Alan E. Gelfand, Sujit K. Sahu and Bradley P. Carlin. 
 
 
 ## Resources
