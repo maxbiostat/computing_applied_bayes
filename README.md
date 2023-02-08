@@ -36,7 +36,7 @@ Some of this stuff was suggested by [Lucas Moschen](https://lucasmoschen.github.
 
 
 ## Resources
-
+- My course on [Computational Statistics](https://github.com/maxbiostat/Computational_Statistics/) is a good source of in-depth material. In particular, slides for a crash course on MCMC are [here](https://github.com/maxbiostat/Computational_Statistics/blob/master/slides/mcmc_crash_course.pdf).
 - If you know what's good for you, you will check out [Mike Betancourt's writtings](https://betanalpha.github.io/writing/). 
 - A good resource in Portuguese is [Marco Inácio's](https://github.com/randommm) [Apostila de Stan](https://marcoinacio.com/stan/). But beware it was written some time ago and the language has move forward quite a bit.  
 - Stan's [documentation page](https://mc-stan.org/users/documentation/) is also a great place to find tips and tricks.
