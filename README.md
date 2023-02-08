@@ -19,7 +19,7 @@ Bayesian modelling is now ubiquitous. And it's wonderful. It does, however, come
 
 ### Numerical robustness
 
-- Goldberg's 1991 gem ["What every computer scientist should know about ?oating-point arith- metic."](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) is great;
+- Goldberg's 1991 gem ["What every computer scientist should know about floating-point arithmetic."](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) is great;
 - The relevant [section](https://mc-stan.org/docs/stan-users-guide/floating-point-arithmetic.html) of the Stan guide is also of great value.
 
 
